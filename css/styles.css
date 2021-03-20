@@ -1,0 +1,107 @@
+body {
+  background-color: floralwhite;
+  font-family: 'Noto Sans KR', Arial, sans-serif;
+}
+ 
+/* Navigation Bar */
+.navbar-dark {
+  background-color: #00695C;
+}
+
+  .row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+  }
+
+  .headerTitle {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+      font-size: 7em;
+      font-weight: 700;
+  }
+
+  /* Main Content */
+
+    /* Header */
+    .jumbotron, #skills {
+      padding: 150px 30px 150px 30px;
+      margin: 0px auto;
+      background: #009688;
+      color: floralwhite;
+    }
+
+
+  /* section */
+  .Title {
+      text-align: center;
+      font-weight: 700;
+  }
+
+  .page-section {
+    padding: 6rem 0;
+  }
+
+  img {
+    border-radius: 15px;
+  }
+
+  @media (max-width: 750px) {
+    img {
+      margin-bottom: 15px;
+    }  
+  }
+
+  #icon {
+    margin-right: 50px;
+    margin-bottom: 10px;
+  }
+  
+  /* Under Text Decoration*/
+/*!
+* Start Bootstrap - Freelancer v6.0.5 (https://startbootstrap.com/theme/freelancer)
+* Copyright 2013-2020 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
+* Edited by Karina Alvarez
+*/
+
+  .divider-custom {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .divider-custom-line {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #2c3e50;
+    border-radius: 1rem;
+    border-color: #2c3e50 !important;
+  }
+  .divider-custom-line:first-child {
+    margin-right: 1rem;
+  }
+  .divider-custom-line:last-child {
+    margin-left: 1rem;
+  }
+   .divider-custom-icon {
+    font-size: 2rem;
+  }
+  .divider-light .divider-custom-line {
+    background-color: #fff;
+  }
+ .divider-light .divider-custom-icon {
+    color: #fff !important;
+  }
+
+  /* Footer */
+  #iconsFooter {
+    color: white;
+  }
+
+  .footer {
+    background-color: #00695C;
+    margin: 0 auto;
+    padding: 25px 0px;
+    text-align: center;
+}
