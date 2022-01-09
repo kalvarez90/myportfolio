@@ -22,7 +22,7 @@ body {
   /* Main Content */
 
     /* Header */
-    .jumbotron, #skills {
+    .jumbotron, #skills, #contact {
       padding: 150px 30px 150px 30px;
       margin: 0px auto;
       background: #009688;
@@ -54,7 +54,14 @@ body {
     margin-right: 50px;
     margin-bottom: 10px;
   }
-  
+#resume {
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
   /* Under Text Decoration*/
 /*!
 * Start Bootstrap - Freelancer v6.0.5 (https://startbootstrap.com/theme/freelancer)

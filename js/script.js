@@ -11,8 +11,7 @@ var tw = {
       "A mother of four",
       "A year-round homeschool mom",
       "A pet foster mom",
-      "A student at Bellevue University",
-      "A future full-stack developer"
+      "A full-stack developer"
   
     ],
     delay: 100,
