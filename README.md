@@ -1,5 +1,3 @@
-# README #
+# My Portfolio #
 
-### What is this repository for? ###
-
-This repository was intended for the Bootstrap4 course in Coursera. This project is linked with the Honor certification of the Bootstrap course
+This repository was intended to create a small portfolio of past projects and current experience.
