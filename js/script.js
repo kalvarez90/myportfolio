@@ -9,6 +9,7 @@ var tw = {
     text: [ // Blocks of text to show
       "Wife",
       "Mother of four",
+      "Roller-skater",
       "A full-stack developer"
   
     ],
