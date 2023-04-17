@@ -63,9 +63,15 @@ a:link {
 }
 
 /*skills*/
-span:hover + div {
-  display: block;
+.hide {
+  display: none;
 }
+    
+.imghide:hover + .hide {
+  display: block;
+  color: red;
+}
+
 
   /* Under Text Decoration*/
 /*!
