@@ -7,10 +7,8 @@
 var tw = {
     container: "typewriterSub", // ID of typewriter container
     text: [ // Blocks of text to show
-      "A wife",
-      "A mother of four",
-      "A year-round homeschool mom",
-      "A pet foster mom",
+      "Wife",
+      "Mother of four",
       "A full-stack developer"
   
     ],
