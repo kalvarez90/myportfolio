@@ -62,17 +62,6 @@ a:link {
   text-decoration: none;
 }
 
-/*skills*/
-.hide {
-  display: none;
-}
-    
-.imghide:hover + .hide {
-  display: block;
-  color: red;
-}
-
-
   /* Under Text Decoration*/
 /*!
 * Start Bootstrap - Freelancer v6.0.5 (https://startbootstrap.com/theme/freelancer)
